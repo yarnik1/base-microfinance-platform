@@ -20,7 +20,7 @@ This project is a basic decentralized microfinance platform built on the Base bl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/base-microfinance-platform.git
+   git clone https://github.com/yarnik1/base-microfinance-platform.git
    ```
 
 2. Install dependencies for contracts:
